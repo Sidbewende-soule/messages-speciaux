@@ -11,7 +11,7 @@ const messages = [
             gradient: "from-pink-400 via-red-400 to-yellow-400",
             bg: "from-pink-50 via-red-50 to-yellow-50",
             cardBg: "from-pink-100 to-red-100",
-            icon: "🎂",
+            icon: "😻",
             animation: "animate-bounce"
         }
     },
@@ -21,7 +21,7 @@ const messages = [
             gradient: "from-purple-500 via-blue-500 to-indigo-600",
             bg: "from-purple-50 via-blue-50 to-indigo-50",
             cardBg: "from-purple-100 to-blue-100",
-            icon: "⭐",
+            icon: "😻",
             animation: "animate-pulse"
         }
     },
