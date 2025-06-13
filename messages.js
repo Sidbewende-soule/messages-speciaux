@@ -6,7 +6,7 @@ const JOUR_ANNIVERSAIRE = 27;
 // Messages avec designs personnalisés
 const messages = [
     {
-        text: " Ma petite boule de vie, comme tu aimes bien m'appeler ainsi. Aujourd'hui est un nouveau jour, un nouveau 27 septembre, mais toujours avec la fille que j'aime depuis maintenant 5 ans. Aujourd'hui je te souhaite de prendre 5min de t'asseoir, et de repenser à tout ce que tu a pu réaliser dans ta vie, et également dans celle des autres, Pour moi tu es une grande Dame avec un grand coeur. Joyeux Anniversaires ma raison de vivre 🎉",
+        text: " Ma petite boule de vie🤣❤️, comme tu aimes bien m'appeler ainsi🥹. Aujourd'hui est un nouveau jour, un nouveau 27 septembre, mais toujours avec la fille que j'aime depuis maintenant 5 ans. Aujourd'hui je te souhaite de prendre 5min de t'asseoir(ah oui oui tu pensais 😂j'allais dire quoi ?( Imbécile😂🤣), et de repenser à tout ce que tu a pu réaliser dans ta vie, et également dans celle des autres, surtout que tu prennes conscience de la personne maagnifique que tu es et de la capacité que tu a de réaliser les choses incroyable. Ne doutes jamais de toi, fais toi toujours confiance ! Pour moi tu es une grande Dame avec un grand coeur. Joyeux Anniversaire😉 ma raison de vivre 🎉",
         theme: {
             gradient: "from-pink-400 via-red-400 to-yellow-400",
             bg: "from-pink-50 via-red-50 to-yellow-50",
