@@ -6,7 +6,7 @@ const JOUR_ANNIVERSAIRE = 27;
 // Messages avec designs personnalisés
 const messages = [
     {
-        text: "Joyeux anniversaire mon amour ! Ta première année de magie commence maintenant 🎉",
+        text: " Ma petite boule de vie, comme tu aimes bien m'appeler ainsi. Aujourd'hui est un nouveau jour, un nouveau 27 septembre, mais toujours avec la fille que j'aime depuis maintenant 5 ans. Aujourd'hui je te souhaite de prendre 5min de t'asseoir, et de repenser à tout ce que tu a pu réaliser dans ta vie, et également dans celle des autres, Pour moi tu es une grande Dame avec un grand coeur. Joyeux Anniversaires ma raison de vivre 🎉",
         theme: {
             gradient: "from-pink-400 via-red-400 to-yellow-400",
             bg: "from-pink-50 via-red-50 to-yellow-50",
@@ -16,7 +16,7 @@ const messages = [
         }
     },
     {
-        text: "Une nouvelle année, un nouvel éclat dans tes yeux comme les étoiles ✨",
+        text: "Une nouvelle année, un nouvel éclat dans tes yeux ✨",
         theme: {
             gradient: "from-purple-500 via-blue-500 to-indigo-600",
             bg: "from-purple-50 via-blue-50 to-indigo-50",
