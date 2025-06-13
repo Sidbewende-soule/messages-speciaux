@@ -16,7 +16,7 @@ const messages = [
         }
     },
     {
-        text: "Une nouvelle année, un nouvel éclat dans tes yeux ✨",
+        text: " Genre tu a grandis encore, toi la mère de l'acapella, la femme d'affaire que tu penses être hein .Celle là meme qui a gagner le prix Nobel 2024 de la bonne conduite au Badenya ✨. Bon bref laissons atalakou la comme ça maintenant. Aujourd'hui je voudrais juste te dire de faire,ce qui te plais. Je parle de la danse, du tricot(si tu sais pas ce que ça veut dire donc faut aller voir sur Gouligoule < Google si t'a pas la ref >), la coiffure,le fait de faire des bracelets, ce sont des choses qui te plaisent vraiment. Sans oublier la sociologie, ou la psychologie. Tu aimes prendre soin des gens, alors continues ainsi, mais tout en prenant bien soin de toi également. Ta vie est toute aussi importante que celle des autres. Ce sont ces choses la meme qui font de toi EMMANUELLA, alors ne laisse jamais une personne t'empêcher  d'être  toi ma grande. Cette vie, elle est très courte, alors profites de chaque secondes de ta vie, et non seulement de cette journéé ",
         theme: {
             gradient: "from-purple-500 via-blue-500 to-indigo-600",
             bg: "from-purple-50 via-blue-50 to-indigo-50",
@@ -26,7 +26,12 @@ const messages = [
         }
     },
     {
-        text: "Ton sourire illumine encore ma journée après toutes ces années 😊",
+        text: "Ma petiiiiiiiiiiiiiiiiiiiiitee 
+            Encore un tour de 365 jours, mais dis donc le temps passe vraiment vite.
+    J'espère que tu prends vraiment bien soin de toi et que tu continues à faire ce qui te passionne.
+    Aujourd'hui la je vais pas trop parler, je veux juste te dire d'aller apprendre l'anglais. Faut prendre ça au sérieux hein... c'est un homme d'affaire, un grand business man qui manies la langue de shakespeares comme son katana, qui est entrain de parler coomme ça la. 
+    Donc écoutes bien tonton, sinon quand on va partir à Dubai la je ne vais pas jouer le traducteur pour toi heinnnnn, ah et puis si tu comprends pas anglais meme d'ailleurs tu vas pas me suivre, donc fais en ta résolution à partir d'aujourd'hui: APPRENDRE L'ANGLAIS (la langue de DOMINIQUE )😊
+    JUSTE PASSE UNE BONNE JOURNNEE MA BELLEUHHHHHHHHH ",
         theme: {
             gradient: "from-yellow-400 via-orange-400 to-red-400",
             bg: "from-yellow-50 via-orange-50 to-red-50",
